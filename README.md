@@ -9,11 +9,11 @@ Module 4 Project 4: JSON-Sentiment Project
 * Part 2: Using Sentiment Analysis (Spacy) run a polarity score on a song.
 
 ## Songs Used in this Project
-1. [Birdhouse in Your Soul](https://www.youtube.com/watch?v=S4Y7IxGG9zg)
-2. [Something in the Orange](https://www.youtube.com/watch?v=Nh1_Un7fUmU)
-3. [She Had Met at Heads Carolina](https://www.youtube.com/watch?v=2w_Ccpwbxgc)
-4. [Fall in Love](https://www.youtube.com/watch?v=IQ95ECX0h4g)
-5. [Wasted on You](https://www.youtube.com/watch?v=AJ_L0eaoIdQ)
+1. [Birdhouse in Your Soul by They Might Be Giants](https://www.youtube.com/watch?v=S4Y7IxGG9zg)
+2. [Something in the Orange by Zach Bryan](https://www.youtube.com/watch?v=Nh1_Un7fUmU)
+3. [She Had Met at Heads Carolina by Cole Swindell](https://www.youtube.com/watch?v=2w_Ccpwbxgc)
+4. [Fall in Love by Bailey Zimmerman](https://www.youtube.com/watch?v=IQ95ECX0h4g)
+5. [Wasted on You by Morgan Wallen](https://www.youtube.com/watch?v=AJ_L0eaoIdQ)
 
 ## Portfolio of Other Projects
 | Index | Class                               | Project Link                                                                                                      |
